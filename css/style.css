@@ -1,0 +1,119 @@
+
+* body {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.contain {
+   width: 100%;
+   height: 110px;
+   background-color: deeppink;
+   display: flex;
+   justify-content: space-between;
+   margin-top: 15px;
+}
+
+.logo img {
+   width: 130px;
+   height: auto;
+   margin-left: 50px;
+   padding-top: 7px;
+}
+
+.text img {
+    width: 142px;
+    height: auto;
+    margin-right: 50px;
+    padding-top: 7px;
+}
+
+.nav-item {
+    font-weight: bold !important;
+    padding: 0 30px !important;
+}
+
+.nav-item a:hover {
+      background-color: #BEC4EA;
+      border-radius: 5px;
+      transition: .2s;
+}
+.bar {
+    justify-content: space-between !important;
+    
+}
+
+.menu {
+    margin-left: 360px;
+    padding: 0 25px !important;
+    justify-content: space-between !important;
+    
+}
+
+.navbar {
+    background-color: #9B55AB ;
+
+}
+
+.banner img {
+    width: 600px;
+    height: auto;
+    margin-left: 350px;
+}
+
+.banner {
+    background-color: #A1495E ;
+}
+
+.item {
+    width: 100%;
+    height: 600px;
+    background-color:#233896 ;
+}
+
+.ptext h5 {
+    color: red;
+}
+
+.ptext p {
+    color:#233896;
+    font-weight: 625;
+}
+
+.list {
+    padding-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 180px;
+    margin-right: 180px;
+ }
+
+.copy {
+    border-radius: 10px !important;
+}
+
+.copy:hover {
+    background-color: purple !important;
+    transition: .3s;
+}
+.footer {
+    width: 100%;
+    height: 300px;
+    background-color:#179E89 ;
+}
+
+.photo img {
+    height: 245px;
+}
+
+.name {
+    margin-left: 550px;
+    padding-top: 90px;
+}
+
+.icon  {
+    margin-left: 600px;
+}
+
+.name h3 {
+    margin-left: 20px;
+}
